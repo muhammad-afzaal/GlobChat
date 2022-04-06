@@ -1,7 +1,7 @@
 from django.db import models
 from django.template.defaultfilters import slugify
 from django.contrib.auth.models import User
-from FlushChat import settings
+from GlobChat import settings
 from json import JSONEncoder
 from django.db.models import Max
 
