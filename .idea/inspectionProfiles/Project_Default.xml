@@ -1,0 +1,88 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="django-rest-passwordreset" />
+            <item index="1" class="java.lang.String" itemvalue="djangorestframework-jwt" />
+            <item index="2" class="java.lang.String" itemvalue="django-rest-polymorphic" />
+            <item index="3" class="java.lang.String" itemvalue="packaging" />
+            <item index="4" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="5" class="java.lang.String" itemvalue="click-didyoumean" />
+            <item index="6" class="java.lang.String" itemvalue="flower" />
+            <item index="7" class="java.lang.String" itemvalue="pandas" />
+            <item index="8" class="java.lang.String" itemvalue="channels" />
+            <item index="9" class="java.lang.String" itemvalue="cachetools" />
+            <item index="10" class="java.lang.String" itemvalue="Fabric3" />
+            <item index="11" class="java.lang.String" itemvalue="googlemaps" />
+            <item index="12" class="java.lang.String" itemvalue="click-repl" />
+            <item index="13" class="java.lang.String" itemvalue="pika" />
+            <item index="14" class="java.lang.String" itemvalue="click-plugins" />
+            <item index="15" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="16" class="java.lang.String" itemvalue="Pillow" />
+            <item index="17" class="java.lang.String" itemvalue="httpcore" />
+            <item index="18" class="java.lang.String" itemvalue="pubnub" />
+            <item index="19" class="java.lang.String" itemvalue="six" />
+            <item index="20" class="java.lang.String" itemvalue="grpcio" />
+            <item index="21" class="java.lang.String" itemvalue="typing-extensions" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="business.models.BusinessProfile.*" />
+          <option value="business.models.PostNewService.*" />
+          <option value="business.models.PostNewProject.*" />
+          <option value="business.models.ServiceBooking.*" />
+          <option value="business.models.Portfolio.*" />
+          <option value="business.models.RatingsTestimonials.*" />
+          <option value="invitations.models.FriendRequests.*" />
+          <option value="jobportal.models.JobPost.*" />
+          <option value="jobportal.models.JobOffer.*" />
+          <option value="jobportal.models.JobApplicantFiles.*" />
+          <option value="jobportal.models.JobsApplications.*" />
+          <option value="jobportal.models.SavedJobs.*" />
+          <option value="jobportal.models.UploadResume.*" />
+          <option value="jobportal.models.SaveJob.*" />
+          <option value="jobportal.models.EmpType.*" />
+          <option value="personal.models.WorkHistory.*" />
+          <option value="invitations.models.FriendList.*" />
+          <option value="invitations.models.CommunityMembers.*" />
+          <option value="invitations.models.MeetingsEvent.*" />
+          <option value="invitations.models.MeetingAttendees.*" />
+          <option value="invitations.models.MeetingEventMediaFiles.*" />
+          <option value="invitations.models.BookAppointment.*" />
+          <option value="invitations.models.Community.*" />
+          <option value="business.models.ProfessionCategory.*" />
+          <option value="core.models.UserActivity.*" />
+          <option value="core.models.UserInterest.*" />
+          <option value="business.models.BusinessFollowers.*" />
+          <option value="business.models.PreDefinedServices.*" />
+          <option value="business.models.ServiceDays.*" />
+          <option value="business.models.BusinessDetails.*" />
+          <option value="core.models.LikeUserPosts.*" />
+          <option value="invitations.models.LikeCommunityPosts.*" />
+          <option value="core.models.UserPosts.*" />
+          <option value="core.models.PostComments.*" />
+          <option value="core.models.PostTags.*" />
+          <option value="community.models.CommunityPosts.*" />
+          <option value="community.models.LikeCommunityPosts.*" />
+          <option value="community.models.Community.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
